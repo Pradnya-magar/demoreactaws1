@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with SandiBoy & Pradnya & Neil Magar
+          Learn React with SandiBoy & Pradnya & Neil Magar & Papa MAgar
         </a>
       </header>
     </div>
